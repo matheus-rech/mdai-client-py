@@ -56,7 +56,7 @@ dicom2nifti = "*"
 PyYAML = "*"
 
 [tool.poetry.group.dev.dependencies]
-black = "23.3.0"
+black = "24.3.0"
 ruff = "0.0.272"
 pytest = "*"
 sphinx = "*"
